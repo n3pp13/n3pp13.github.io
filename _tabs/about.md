@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Things
 icon: fas fa-info-circle
 order: 4
 ---
